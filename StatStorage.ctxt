@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=filePath\ appendVal
+comment0.target=StatStorage(java.lang.String,\ boolean)
+comment1.params=
+comment1.target=int\ startScreen()
+comment2.params=
+comment2.target=void\ addAcount()
+comment3.params=username
+comment3.target=boolean\ nameCheck(java.lang.String)
+comment4.params=
+comment4.target=int\ loginValidation()
+comment5.params=
+comment5.target=int\ numberLines()
+comment6.params=startingLine\ linesToRead
+comment6.target=java.lang.String[]\ readFile(int,\ int)
+comment7.params=text
+comment7.target=void\ writeToFile(java.lang.String)
+comment8.params=file
+comment8.target=void\ writeToFile(java.lang.String[])
+numComments=9

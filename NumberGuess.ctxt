@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=ranNumber
+comment0.target=NumberGuess(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ NumberGuess\r\n
+comment1.params=
+comment1.target=boolean\ primeTest()
+comment1.text=\r\nTests\ if\ number\ is\ prime\r\n@return\ True\ if\ the\ number\ is\ prime,\ and\ false\ if\ the\ number\ is\ not\r\n
+comment2.params=
+comment2.target=boolean\ evenTest()
+comment2.text=\r\n\ Tests\ if\ number\ is\ even\r\n\ @return\ True\ if\ it\ is\ even,\ and\ false\ if\ it\ is\ odd\r\n
+comment3.params=
+comment3.target=boolean\ perfectTest()
+comment3.text=\r\n\ Tests\ if\ number\ is\ a\ perfect\ power\ of\ the\ index\ user\ entered\r\n\ @return\ True\ if\ the\ number\ is\ a\ perfect\ power,\ and\ false\ if\ it\ is\ not\r\n
+comment4.params=
+comment4.target=int\ factors()
+comment5.params=
+comment5.target=int\ sumOfFactors()
+comment6.params=
+comment6.target=int\ sumOfDigits()
+comment7.params=numberGuess\ lieRate\ hintRate\ hints
+comment7.target=void\ printFacts(int,\ int,\ int,\ boolean[])
+numComments=8
